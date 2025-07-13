@@ -9,7 +9,9 @@ The HR Analytics Dashboard provides an insightful overview of employee attrition
 🧰 3. Tech Stack
 This dashboard was developed using the following tools and technologies:
 📊 Power BI Desktop – Main platform for creating visual analytics
+
 🔄 Power Query – For transforming raw HR data
+
 🧠 DAX – Used for aggregations, KPIs, and conditional logic
 🧮 Data Modeling – Connecting employee attributes like job role, education, salary, and attrition
 📁 File Format – .pbix for development and .png for preview
