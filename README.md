@@ -93,3 +93,4 @@ Top 4 Education Fields by Job Role (Horizontal Bar Chart): Identifies high-risk 
 
 6. Screenshot
 HR_Analytics_Dashboard
+https://github.com/Gayatri-Pallan/HR_Analytics_Dashboard/blob/main/HR_Analytics_Dashboard.png
